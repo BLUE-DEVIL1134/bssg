@@ -5,7 +5,7 @@
 
 div.appBar > span.dark {
   top: 10px;
-  position: fixed;
+  position: relative;
   font-size: larger;
   color: yellow;
   font-weight: 500;
